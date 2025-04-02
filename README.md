@@ -66,6 +66,3 @@ Si tienes ideas para mejorar este proyecto, ¡serán bienvenidas! Puedes abrir u
 ## 📜 Licencia
 Este proyecto está bajo la licencia MIT. ¡Úsalo y adáptalo a tus necesidades!
 
----
-_Hecho con ❤️ por [Tu Nombre]._
-
